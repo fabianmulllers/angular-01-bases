@@ -39,3 +39,20 @@
   .p-1 {
     padding: 1px;
   }
+
+  .row{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    .col{
+      flex-grow: 1;
+      margin-right: 10px;
+      text-align: center;
+    }
+  }
+
+  input{
+    display: block;
+    width: 100%;
+    margin: 5px;
+  }
