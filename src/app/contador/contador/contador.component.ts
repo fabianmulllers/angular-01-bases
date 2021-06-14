@@ -15,7 +15,7 @@ import {Component} from '@angular/core';
 export class ContadorComponent {
     titulo: string = 'Contador App';
     numero: number = 10;
-    base: number = 5; 
+    base: number = 1; 
 
     // sumar = (): number => ( this.numero += this.numero);
     sumar(){

@@ -63,3 +63,9 @@ input {
   width: 100%;
   margin: 5px;
 }
+
+.titulo {
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+}
